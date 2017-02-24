@@ -17,8 +17,7 @@
     </head>
     <body>
         
-        <div class="col-xs-12 col-sm-8 col-md-8 col-lg-6">
-        
+        <div class="container">
         @include('commons.error_messages')
         
         @include('commons.nav_bar')
